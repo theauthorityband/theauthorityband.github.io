@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: .
+  render:
+    - "*.qmd"
+#    - "!aldi/"
+#    - "!latihanR/"
+#    - "!gravity/"
+
+
+website:
+  title: "The Authority"
+  favicon: logo.jpg
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: playlist.qmd
+        text: playlist
+        
+      
+
+#bibliography: reference.bib
+#nocite: |
+#  @*
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
