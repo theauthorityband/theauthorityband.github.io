@@ -2,7 +2,7 @@
 title: "Personnel"
 ---
 
-::: {layout-ncol=2}
+::: {layout-ncol=3}
 ![Aldi: Guitar](aldi.jpg)
 
 ![Andi: Drum](andi.jpg)
@@ -15,3 +15,27 @@ title: "Personnel"
 
 ![Rully: Bass](rully.jpg)
 :::
+
+##### Aldi
+
+A guitarist.
+
+##### Andi
+
+A drummer.
+
+##### Arie
+
+Lead vocal, also plays keyboard, guitar, and bass when Rully is busy.
+
+##### Dhany
+
+Plays everything you can imagine, but mostly guitar and keyboard.
+
+##### Imed
+
+Vocalist. The least talented in the band and just here for the vibe. He loves alt-rock songs, a bit of emo, and a big fan of L`arc~en~ciel. Check out his social media [@imedkrisna](https://www.x.com/imedkrisna) and his [smule account](https://www.smule.com/L_Med).
+
+##### Rully
+
+A bassist.

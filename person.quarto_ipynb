@@ -1,0 +1,46 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Personnel\"\n",
+        "---\n",
+        "\n",
+        "```{css}\n",
+        "/*| echo: false */\n",
+        "figcaption {\n",
+        "  margin: auto;\n",
+        "  text-align: center;\n",
+        "}\n",
+        "```\n",
+        "\n",
+        "\n",
+        "::: {layout-ncol=3}\n",
+        "![Aldi: Guitar](aldi.jpg){width=60%}\n",
+        "\n",
+        "![Andi: Drum](andi.jpg){width=60%}\n",
+        "\n",
+        "![Arie: Vocal, Keyboard](arie.jpg){width=60%}\n",
+        "\n",
+        "![Dhany: Guitar, Keyboard](dhany.jpg){width=60%}\n",
+        "\n",
+        "![[Imed: Vocal](https://imedkrisna.github.io/)](imed.jpg){width=60%}\n",
+        "\n",
+        "![Rully: Bass](rully.jpg)\n",
+        ":::"
+      ],
+      "id": "059b1482"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
