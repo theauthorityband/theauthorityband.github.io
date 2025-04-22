@@ -15,6 +15,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: person.qmd
+        text: Personnel
+      - href: gig.qmd
+        text: Gig
       - href: playlist.qmd
         text: playlist
         

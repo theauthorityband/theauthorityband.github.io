@@ -1,7 +1,7 @@
 ---
 title: "The Authority"
 about:
-  template: trestles
+  template: jolla
   image: logo.jpg
   image-width: 10em
   image-shape: round
@@ -26,29 +26,6 @@ about:
 #    href: https://www.krisna.or.id/en/#CV
 ---
 
-We are an amazing Indonesia-based band!
+Welcome to our page! We are The Authority, a casual/hobby band from Jakarta, Indonesia. We are salarymen just trying to get by while also love to play some music! 
 
-## Our next gig!
-
-Japan Fiesta. Saturday May 10th 2025 at Tangcity Mall. Don't miss it!
-
-![](jgig.jpg)
-
-## Personnel
-
-::: {layout-ncol=2}
-![Aldi: Guitar](aldi.jpg)
-
-![Andi: Drum](andi.jpg)
-
-![Arie: Vocal, Keyboard](arie.jpg)
-
-![Dhany: Guitar, Keyboard](dhany.jpg)
-
-![[Imed: Vocal](https://imedkrisna.github.io/)](imed.jpg)
-
-
-
-
-![Rully: Bass](rully.jpg)
-:::
+We mostly do cover songs of our fave music and occasionally do some gig. Do check our cover in Youtube and say hi to our personnels on their social media!

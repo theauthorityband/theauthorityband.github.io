@@ -1,0 +1,17 @@
+---
+title: "Personnel"
+---
+
+::: {layout-ncol=2}
+![Aldi: Guitar](aldi.jpg)
+
+![Andi: Drum](andi.jpg)
+
+![Arie: Vocal, Keyboard](arie.jpg)
+
+![Dhany: Guitar, Keyboard](dhany.jpg)
+
+![[Imed: Vocal](https://imedkrisna.github.io/)](imed.jpg)
+
+![Rully: Bass](rully.jpg)
+:::
