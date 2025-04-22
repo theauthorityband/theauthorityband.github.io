@@ -6,7 +6,7 @@ title: "Gig"
 
 Japan Fiesta. Saturday May 10th 2025 at Tangcity Mall. Don't miss it!
 
-![](jgig.jpg)
+![](jgig.jpg){width=60%}
 
 ## Past Gigs
 
